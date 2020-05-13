@@ -1,3 +1,3 @@
 # Python-Mini-Projects
 
-This repository contains the simple projects done in Python.
+This repository contains simple projects done in Python.
